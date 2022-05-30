@@ -1,0 +1,54 @@
+  [
+    {
+    "questionTitle": "What is biology?",
+    "answerOptions":[
+      {"answerText":"The study of life", "isCorrect":true},
+      {"answerText":"The study of plants", "isCorrect":false},
+      {"answerText":"The study of virus", "isCorrect":false},
+      {"answerText":"The study of plants", "isCorrect":false}
+
+    ]
+  },
+
+  {
+    "questionTitle": "What are the two important branches of biology?",
+    "answerOptions":[
+      {"answerText":"botany and microbiology", "isCorrect":false},
+      {"answerText":"botany and physiology", "isCorrect":false},
+      {"answerText":"botany and zoology", "isCorrect":true},
+      {"answerText":"nursing and medicine", "isCorrect":false}
+
+    ]
+  },
+  {
+    "questionTitle": "How many bones are present in the adult human body",
+    "answerOptions":[
+      {"answerText":"206", "isCorrect":true},
+      {"answerText":"botany and physiology", "isCorrect":false},
+      {"answerText":"botany and zoology", "isCorrect":false},
+      {"answerText":"nursing and medicine", "isCorrect":false}
+
+    ]
+  },
+  {
+    "questionTitle": "Botany is the study of ... ",
+    "answerOptions":[
+      {"answerText":"leaves", "isCorrect":false},
+      {"answerText":"sea animals", "isCorrect":true},
+      {"answerText":"plants", "isCorrect":false},
+      {"answerText":"earthworms", "isCorrect":false}
+
+    ]
+  },
+  {
+    "questionTitle": "... is an example of seedless vascular plants",
+    "answerOptions":[
+      {"answerText":"Monera", "isCorrect":false},
+      {"answerText":"The study of plants", "isCorrect":false},
+      {"answerText":"The study of virus", "isCorrect":false},
+      {"answerText":"ferns", "isCorrect":true}
+
+    ]
+  }
+  
+]
